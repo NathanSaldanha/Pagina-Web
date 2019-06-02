@@ -1,0 +1,64 @@
+body{
+	background-color: #FFCC99;
+	
+}
+#interface{
+	margin: 30px 140px 20px 130px;
+
+	
+
+}
+fieldset{
+	background-color: white;
+
+
+}
+.texto{
+	position: relative;
+	
+}
+
+.padrao{
+	width: 585px;
+	
+}
+.subtitulo{
+	border-bottom: 2px dashed black; 
+}
+#igreja{
+
+	width: 240px;
+	height: 210px;
+
+}
+#jaguaribe{
+
+	width: 240px;
+	height: 240px;
+}
+#caatinga{
+	width: 240px;
+	height: 240px;
+}
+.image{
+
+	float: left;
+
+}
+figure{
+	position: relative;
+	top: -23px;
+	right: 40px;
+	text-align: center;
+
+}
+#outros{
+	float: right;
+	width: 390px
+}
+footer{
+	position: relative;
+	left: 300px;
+	width: 320px;
+}
+
